@@ -18,4 +18,4 @@
 
 最终，任何想要长期运营的资源站点，都需在内容质量、用户信任与技术支持三者之间找到平衡点。只有将这些要素深度融合，平台才能具备持久竞争力。
 
-<span style="display:none;">[Canonical link]( ）</span>
+<span style="display:none;">[Canonical link]( https://github.com/pls20250710/riben54405 ）</span>
